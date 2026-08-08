@@ -9,4 +9,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Array
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0078-subsets) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
