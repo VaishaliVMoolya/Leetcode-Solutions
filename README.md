@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0078-subsets) |
+| [0283-move-zeroes](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Backtracking
 |  |
 | ------- |
@@ -25,4 +26,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
