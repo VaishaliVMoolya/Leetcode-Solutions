@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0078-subsets](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0283-move-zeroes](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0283-move-zeroes) |
 ## Backtracking
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0001-two-sum) |
 | [0409-longest-palindrome](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
 ## Greedy
 |  |
