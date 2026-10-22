@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0231-power-of-two) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -118,4 +119,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
