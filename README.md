@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0409-longest-palindrome) |
+| [2409-count-days-spent-together](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 ## Stack
 |  |
 | ------- |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/0231-power-of-two) |
+| [2409-count-days-spent-together](https://github.com/VaishaliVMoolya/Leetcode-Solutions/tree/master/2409-count-days-spent-together) |
 ## Recursion
 |  |
 | ------- |
